@@ -7,7 +7,7 @@ console.log(`The driver's name is ${hacker1}`);
 
 let hacker2 = "Jerry";
 
-console.log(`The navigator's name is ${hacker2}`);
+console.log(`The navigator's name is ${hacker2}`); 
 
 // Iteration 2: Conditionals
 
